@@ -1,5 +1,5 @@
 # CodeClause_Music_Player
--This is a Python script that creates a GUI (Graphical User Interface) Music player using Tkinter and Pygame modules to play music files.
+- This is a Python script that creates a GUI (Graphical User Interface) Music player using Tkinter and Pygame modules to play music files.
 
 - GUI window displays a list of music files and buttons like play, pause, next, previous, add, and shuffle to perform respective operations.
 
