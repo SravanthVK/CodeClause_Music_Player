@@ -12,3 +12,9 @@
 - Shuffle button -> shuffles the order of the tracks in the list and plays the first track.
 
 - This program provides a simple and intuitive way for users to play music files using Python.
+- The screenshots of the GUI Window is attached below
+
+
+![Screenshot (146)](https://github.com/SravanthVK/CodeClause_Music_Player/assets/111895531/aa762de4-b452-42a6-8ea1-23fab6dbc761)
+
+![Screenshot (148)](https://github.com/SravanthVK/CodeClause_Music_Player/assets/111895531/de0d7cf9-c74d-40b1-b887-88c24e6166ca)
